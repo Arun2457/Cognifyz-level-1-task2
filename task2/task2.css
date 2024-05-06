@@ -1,0 +1,31 @@
+#btn{
+    width: 300px;
+    height: 100px;
+  
+}
+.btn{
+    display: flex;
+   margin-top: 40px;
+    justify-content: center;
+    align-items: flex-start;
+}
+input{
+    margin: 10px;
+    padding: 8px;
+}
+#add{
+    margin: 10px;
+    padding: 5px;
+    width: 100px;
+}
+#demo{
+    margin: 10px;
+}
+.calculate{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 500px;
+    margin-top: 25px;
+    margin-left: 400px;
+}
